@@ -29,6 +29,10 @@
 * JCF
 * JSP
 
+**I'm planning to study**
+
+* Data Structure & Algorithm
+* Spring Framework
 
 # ✏️ Github & Baekjoon
 
