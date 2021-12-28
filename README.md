@@ -4,8 +4,8 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-![Maven](https://img.shields.io/badge/Maven-C71A36.svg?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Tomcat](https://img.shields.io/badge/tomcat-F8DC75.svg?style=for-the-badge&logo=Apache%20Tomcat&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?style=for-the-badge&logo=Apache%20Tomcat&logoColor=white)
 
 
 
