@@ -28,12 +28,13 @@
 
 **I'm currently studying**
 
-* Object-Oriented
-* Data Structure & Algorithm
+* JAVA
+* Spring Framework
+* Web Application
 
 **I'm planning to study**
 
-* JCF
+* SICP
 
 # ✏️ Github & Baekjoon
 
