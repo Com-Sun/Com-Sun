@@ -4,16 +4,14 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring%20MVC-34E27A.svg?style=for-the-badge&logo=Spring&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring%20Data%20JPA-06AC38.svg?style=for-the-badge&logo=Spring&logoColor=white)
+
+![JPA](https://img.shields.io/badge/JPA-83DA77.svg?style=for-the-badge&logo=Hibernate&logoColor=white)
+
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?style=for-the-badge&logo=Apache%20Tomcat&logoColor=white)
-
-
-
-**Front-End**
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 **Tools**
 
