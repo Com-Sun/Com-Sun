@@ -4,11 +4,17 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white)
+
+![Spring boot](https://img.shields.io/badge/Spring%20Boot-06AC38.svg?style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring%20MVC-34E27A.svg?style=for-the-badge&logo=Spring&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring%20Data%20JPA-06AC38.svg?style=for-the-badge&logo=Spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=for-the-badge&logo=SpringSecurity&logoColor=white)
+
 
 ![JPA](https://img.shields.io/badge/JPA-83DA77.svg?style=for-the-badge&logo=Hibernate&logoColor=white)
+
+![MYSQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white)
 
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?style=for-the-badge&logo=Apache%20Tomcat&logoColor=white)
@@ -26,12 +32,15 @@
 
 **I'm currently studying**
 
-* JAVA
-* Spring Framework
-* Web Application
+* Modern Java
+* Spring Boot
+* JPA
+* MSA
+* Design Pattern
 
 **I'm planning to study**
 
+* Spring cloud
 * SICP
 
 # ✏️ Github & Baekjoon
