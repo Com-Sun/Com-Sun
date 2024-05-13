@@ -1,40 +1,33 @@
-# 💻 Skills
+## Comsun
+살기 위해 운동하는 개발자.. (러닝 좋아해용) <br>
+MSA, K8S 기반의 클라우드 서비스를 개발하고 있습니다. - [AppPaaS](https://www.apppaas.com/) <br>
+인프라 영역은 전문적인 지식을 보유하고 있다기보단, 이런 환경에서 일하고 있다고 봐주세요! <br>
+
+### Professional Experience
+
+現 엔에이치엔엔터프라이즈    2023. 02. 13 ~ 재직중 <br>
+前 엔에이치엔아카데미주식회사 2022. 11. 01 ~ 2023. 02. 10
+
+### Experience
+엔에이치엔아카데미 1기      2022. 03. 07 ~ 2022. 09. 16
+
+
+### Tech stacks
 
 **Back-End**
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+Java 17, Groovy, Mysql
+
+Spring Boot, Spring Security, Spring Data JPA
+
+Junit5, Spock
+
+Docker, Kubernetes, Jenkins, Helm, ArgoCd, ElasticSearch (EFK), Kafka
+
+NHN Cloud, NKS, Dooray
 
 
-![Spring boot](https://img.shields.io/badge/Spring%20Boot-06AC38.svg?style=for-the-badge&logo=SpringBoot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring%20Data%20JPA-06AC38.svg?style=for-the-badge&logo=Spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=for-the-badge&logo=SpringSecurity&logoColor=white)
-
-![MYSQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white)
-
-**Tools**
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Data Grip](https://img.shields.io/badge/Data%20Grip-000000.svg?style=for-the-badge&logo=datagrip&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733.svg?style=for-the-badge&logo=Vim&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Source Tree](https://img.shields.io/badge/Source%20tree-0052CC.svg?style=for-the-badge&logo=sourcetree&logoColor=white)
-
-
-
-**I'm currently studying**
-
-* Modern Java
-* JPA
-* Object Oriented
-* Design Pattern
-
-**I'm planning to study**
-
-* SICP
-
-# ✏️ Github
+## ✏️ Github
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Com-Sun&show_icons=true&theme=radical) 
 
