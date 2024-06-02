@@ -9,7 +9,7 @@ MSA, K8S 기반의 클라우드 서비스를 개발하고 있습니다. - [AppPa
 前 NHN Academy       2022. 11. 01 ~ 2023. 02. 10
 
 ### Experience
-F-Lab &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2024. 05. 27 ~ 진행중<br>
+F-Lab 2024. 05. 27 ~ 진행중<br>
 엔에이치엔아카데미 1기     2022. 03. 07 ~ 2022. 09. 16
 
 
