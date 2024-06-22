@@ -6,7 +6,7 @@ MSA, K8S 기반의 클라우드 서비스를 개발하고 있습니다. - [AppPa
 ### Professional Experience
 
 現 NHN Enterprise    2023. 02. 13 ~ 재직중 <br>
-前 NHN Academy       2022. 11. 01 ~ 2023. 02. 10
+前 NHN Academy       2022. 11. 01 ~ 2023. 02. 09
 
 ### Experience
 F-Lab 2024. 05. 27 ~ 진행중<br>
